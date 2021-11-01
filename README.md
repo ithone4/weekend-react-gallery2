@@ -1,9 +1,8 @@
-# Project Name
-
-[Project Instructions](./INSTRUCTIONS.md), this line may be removed once you have updated the README.md
-
 ## Description
 
-Your project description goes here. What problem did you solve? How did you solve it?
+The primary goal of this project was to creat a gallery of pictures that included:
 
-Additional README details can be found [here](https://github.com/PrimeAcademy/readme-template/blob/master/README.md).
+- Creating a like button which held the value of total times it was clicked
+- Creating a toggle between the picture and the descrpition
+- Succesffully displaying images/descrption on the DOM
+
