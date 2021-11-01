@@ -3,6 +3,7 @@ const galleryItems = [
     { id: 2, path: 'images/Carmela.jpeg', description: 'Carmela Soprano', likes: 0 },
     { id: 3, path: 'images/Christopher.jpeg', description: 'Christopher Moltisanti', likes: 0 },
     { id: 4, path: 'images/Livia.jpeg', description: 'Livia Soprano', likes: 0 },
+    { id: 5, path: 'images/Melfi.jpeg', description: 'Jennifer Melfi', likes: 0 },
 ];
 
 module.exports = galleryItems;

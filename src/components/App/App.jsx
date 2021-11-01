@@ -19,7 +19,7 @@ const getItems=()=>{
    setgalleryItems (response.data);
  }).catch((err)=>{
    console.log( err );
-   alert( 'GET ERROR not happening');
+   alert( 'GET Error');
  })
 }
 

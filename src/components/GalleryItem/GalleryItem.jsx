@@ -34,8 +34,8 @@ function GalleryItem(props){
                 
             }
             <div>
-             <button onClick={updateLikes}>Like</button>
-             <div>Likes: {props.imageToSend.likes} </div>
+             <button className="button" onClick={updateLikes}>Like</button>
+             <div className="likes">Likes: {props.imageToSend.likes} </div>
              </div>
         </div>
     ) //conditional rendering from description to photo when clicked
