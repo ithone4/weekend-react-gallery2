@@ -4,6 +4,9 @@ const galleryItems = [
     { id: 3, path: 'images/Christopher.jpeg', description: 'Christopher Moltisanti', likes: 0 },
     { id: 4, path: 'images/Livia.jpeg', description: 'Livia Soprano', likes: 0 },
     { id: 5, path: 'images/Melfi.jpeg', description: 'Jennifer Melfi', likes: 0 },
+    { id: 6, path: 'images/Corrado.jpeg', description: 'Corrado Soprano', likes: 0 },
+    { id: 7, path: 'images/Silvio.jpeg', description: 'Silvio Dante', likes: 0 },
+    { id: 8, path: 'images/Paulie.jpeg', description: 'Paulia Gualtieri', likes: 0 },
 ];
 
 module.exports = galleryItems;
